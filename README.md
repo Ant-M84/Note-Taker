@@ -2,7 +2,7 @@
 
 Repository URL: https://github.com/Ant-M84/Note-Taker
 
-Application URL via Heroku:
+Application URL via Heroku: https://task-lister-e0e61ecebb91.herokuapp.com/
 
 ## Description
 
